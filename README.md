@@ -30,13 +30,18 @@ More extra credit:
 
 Use (and handle) [extra.tmpl](extra.tmpl) instead of [template.tmpl](template.tmpl)
 
+## Execution of the code
+Please remember to run 
+```
+composer install
+```
 
-If you want to see the engine in action please run
+Then, if you want to see the engine in action, please run
 ```
 php engine.php extra.tmpl
 ```
 
-If you want to execute tests please run 
+...or, if you want to execute tests, please run 
 ```
  ./bin/phpunit
  ```
