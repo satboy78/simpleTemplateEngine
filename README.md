@@ -29,3 +29,9 @@ Stuff = [
 More extra credit:
 
 Use (and handle) [extra.tmpl](extra.tmpl) instead of [template.tmpl](template.tmpl)
+
+
+If you want to see the engine in action please run
+```
+php engine.php extra.tmpl
+```
