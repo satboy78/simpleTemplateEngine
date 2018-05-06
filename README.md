@@ -35,3 +35,8 @@ If you want to see the engine in action please run
 ```
 php engine.php extra.tmpl
 ```
+
+If you want to execute tests please run 
+```
+ ./bin/phpunit
+ ```
